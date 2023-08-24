@@ -1,0 +1,3 @@
+[submodule "terraform-modules/modules"]
+	path = terraform-modules/modules
+	url = git@github.com:lnkphm/terraform-modules-example.git
